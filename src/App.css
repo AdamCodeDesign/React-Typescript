@@ -1,0 +1,11 @@
+html{
+  font-family: sans-serif;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+}
+input, .submit{
+  margin-top: 10px;
+}
